@@ -1,0 +1,12 @@
+CREATE TABLE `laptop_database` (
+`Serial` int(11) NOT NULL AUTO_INCREMENT,
+`Processor` varchar(50) DEFAULT NULL,
+`Memory` varchar(10) DEFAULT NULL,
+`HDD` varchar(10) DEFAULT NULL,
+`OS` varchar(50) DEFAULT NULL,
+`Screen` varchar(10) DEFAULT NULL,
+`Price` varchar(10) DEFAULT NULL,
+`Seller` enum('flipkart','snapdeal','infibeam') NOT NULL DEFAULT 'flipkart',
+`Link` varchar(2000) DEFAULT NULL,
+PRIMARY KEY (`Serial`)
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=latin1
