@@ -12,7 +12,9 @@ Installation
 ------------
 
 Run following command to populate database  
-		python3 scraper.py install
+```
+python3 scraper.py install
+```
 	
 Known Issue
 -----------
