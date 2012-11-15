@@ -19,7 +19,7 @@ python3 scraper.py install
 Known Issue
 -----------
 
-Link: http://www.snapdeal.com/product/dell-inspiron-15r-laptop-2nd/425942?pos=16;26 has two totally different type of description of same product on same page. Above it says it is a Ci5/Win7/1TB laptop, while scrolling down to technical specification section it says it is Ci3/Linux/320GB laptop. I have used technical specification for each laptop.
+This [link](http://www.snapdeal.com/product/dell-inspiron-15r-laptop-2nd/425942?pos=16;26) has two totally different type of description of same product on same page. Above it says it is a Ci5/Win7/1TB laptop, while scrolling down to technical specification section it says it is Ci3/Linux/320GB laptop. I have used technical specification for each laptop.
 
 Note
 ----
